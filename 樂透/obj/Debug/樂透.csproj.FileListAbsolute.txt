@@ -1,0 +1,95 @@
+c:\users\user\documents\visual studio 2013\Projects\樂透\樂透\bin\Debug\樂透.exe.config
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\bin\Debug\樂透.exe
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\bin\Debug\樂透.pdb
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.Form1.resources
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.exe
+C:\Users\User\documents\visual studio 2013\Projects\樂透\樂透\obj\Debug\樂透.pdb
+D:\Desktop\樂透\樂透\bin\Debug\樂透.exe.config
+D:\Desktop\樂透\樂透\obj\Debug\樂透.exe
+D:\Desktop\樂透\樂透\obj\Debug\樂透.pdb
+D:\Desktop\樂透\樂透\bin\Debug\樂透.exe
+D:\Desktop\樂透\樂透\bin\Debug\樂透.pdb
+D:\Desktop\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+D:\Desktop\樂透\樂透\obj\Debug\樂透.Form1.resources
+D:\Desktop\樂透\樂透\obj\Debug\樂透.Properties.Resources.resources
+D:\Desktop\樂透\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+F:\樂透\樂透\bin\Debug\樂透.exe.config
+F:\樂透\樂透\obj\Debug\樂透.exe
+F:\樂透\樂透\obj\Debug\樂透.pdb
+F:\樂透\樂透\bin\Debug\樂透.exe
+F:\樂透\樂透\bin\Debug\樂透.pdb
+F:\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+F:\樂透\樂透\obj\Debug\樂透.Form1.resources
+F:\樂透\樂透\obj\Debug\樂透.Properties.Resources.resources
+F:\樂透\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+H:\樂透\樂透\bin\Debug\樂透.exe.config
+H:\樂透\樂透\obj\Debug\樂透.exe
+H:\樂透\樂透\obj\Debug\樂透.pdb
+H:\樂透\樂透\bin\Debug\樂透.exe
+H:\樂透\樂透\bin\Debug\樂透.pdb
+H:\樂透\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+H:\樂透\樂透\obj\Debug\樂透.Form1.resources
+H:\樂透\樂透\obj\Debug\樂透.Properties.Resources.resources
+H:\樂透\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+G:\樂透\樂透\bin\Debug\樂透.exe.config
+G:\樂透\樂透\obj\Debug\樂透.exe
+G:\樂透\樂透\obj\Debug\樂透.pdb
+E:\樂透\樂透\bin\Debug\樂透.exe.config
+E:\樂透\樂透\obj\Debug\樂透.exe
+E:\樂透\樂透\obj\Debug\樂透.pdb
+E:\213409\樂透\bin\Debug\樂透.exe.config
+E:\213409\樂透\obj\Debug\樂透.exe
+E:\213409\樂透\obj\Debug\樂透.pdb
+E:\213409\樂透\bin\Debug\樂透.exe
+E:\213409\樂透\bin\Debug\樂透.pdb
+E:\213409\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+E:\213409\樂透\obj\Debug\樂透.Form1.resources
+E:\213409\樂透\obj\Debug\樂透.Properties.Resources.resources
+E:\213409\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+C:\Users\tyai\Desktop\213409\樂透\bin\Debug\樂透.exe.config
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.exe
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.pdb
+C:\Users\tyai\Desktop\213409\樂透\bin\Debug\樂透.exe
+C:\Users\tyai\Desktop\213409\樂透\bin\Debug\樂透.pdb
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.Form1.resources
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.Properties.Resources.resources
+C:\Users\tyai\Desktop\213409\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+F:\213409\樂透\bin\Debug\樂透.exe.config
+F:\213409\樂透\obj\Debug\樂透.exe
+F:\213409\樂透\obj\Debug\樂透.pdb
+F:\213409\樂透\bin\Debug\樂透.exe
+F:\213409\樂透\bin\Debug\樂透.pdb
+F:\213409\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+F:\213409\樂透\obj\Debug\樂透.Form1.resources
+F:\213409\樂透\obj\Debug\樂透.Properties.Resources.resources
+F:\213409\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+G:\213409\樂透\bin\Debug\樂透.exe.config
+G:\213409\樂透\obj\Debug\樂透.exe
+G:\213409\樂透\obj\Debug\樂透.pdb
+F:\樂透\213409\樂透\bin\Debug\樂透.exe.config
+F:\樂透\213409\樂透\obj\Debug\樂透.exe
+F:\樂透\213409\樂透\obj\Debug\樂透.pdb
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\bin\Debug\樂透.exe.config
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\bin\Debug\樂透.exe
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\bin\Debug\樂透.pdb
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.csprojResolveAssemblyReference.cache
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.Form1.resources
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.Properties.Resources.resources
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.csproj.GenerateResource.Cache
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.csproj.CoreCompileInputs.cache
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.exe
+C:\Users\zxcz1\Desktop\樂透C#\213409\樂透\obj\Debug\樂透.pdb
+D:\樂透C#\樂透\樂透\bin\Debug\樂透.exe.config
+D:\樂透C#\樂透\樂透\bin\Debug\樂透.exe
+D:\樂透C#\樂透\樂透\bin\Debug\樂透.pdb
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.csprojAssemblyReference.cache
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.Form1.resources
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.Properties.Resources.resources
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.csproj.GenerateResource.cache
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.csproj.CoreCompileInputs.cache
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.exe
+D:\樂透C#\樂透\樂透\obj\Debug\樂透.pdb
